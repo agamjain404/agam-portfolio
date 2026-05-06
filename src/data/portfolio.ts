@@ -26,7 +26,6 @@ export const navigation = [
 
 export const metrics = [
   { label: "Years Experience", value: "4+" },
-  { label: "API Performance Boost", value: "25%" },
   { label: "Core Domains", value: "Backend • Frontend • Platform" },
 ];
 
@@ -34,7 +33,7 @@ export const experiences: ExperienceItem[] = [
   {
     company: "Lowe's India",
     role: "Software Engineer",
-    period: "2022 - Present",
+    period: "2024 - Present",
     points: [
       "Built a scalable CMS platform using Node.js, React, and MongoDB with a strong focus on extensibility.",
       "Designed Kafka-based microservices to handle high-volume event processing and asynchronous workflows.",
@@ -48,7 +47,7 @@ export const experiences: ExperienceItem[] = [
   {
     company: "Signzy",
     role: "Software Engineer",
-    period: "2020 - 2022",
+    period: "2022 - 2024",
     points: [
       "Migrated backend services to Loopback 4 with TypeScript, improving maintainability and developer confidence.",
       "Improved critical API performance by 25% through endpoint-level optimization and bottleneck reduction.",
