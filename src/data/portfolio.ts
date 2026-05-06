@@ -70,7 +70,7 @@ export const projects: ProjectItem[] = [
       "Designed secure role-based access and improved content publishing reliability with cleaner API boundaries.",
   },
   {
-    title: "Instagram Reels Clone",
+    title: "Reelify",
     description:
       "A short-video feed experience focused on responsive UX, real-time updates, and scalable frontend rendering.",
     stack: ["React", "Firebase", "Firestore", "Cloud Storage"],
